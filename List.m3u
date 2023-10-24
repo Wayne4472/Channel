@@ -23,5 +23,5 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Türkçe; Haberler",A Haber
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8?st=UK_pMjm6TZ5ty68BIKBvAA&e=1697888877&SessionID=nkk1yaqgbdugplul2cxgehoh&StreamGroup=canli-yayin&Site=ahaber&DeviceGroup=web
-#EXTINF:-1 tvg-id="HaberTurk.tr" tvg-logo=" group-title="Türkçe; Haberler",Haber Türk TV
+#EXTINF:-1 tvg-id="HaberTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Habert%C3%BCrk_logo.svg" group-title="Türkçe; Haberler",Haber Türk TV
 https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=5ufap8kmzkv7&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
