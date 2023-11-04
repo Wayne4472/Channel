@@ -5,7 +5,7 @@ https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Türkçe",Star TV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=5tmmlq8vfreq&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
-#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://png2.cleanpng.com/sh/76b50ff053aaccc34a7302e2a07b06c1/L0KzQYm3VcMxN512hJH0aYP2gLBuTftidpJxRak2aHnqeH7rhfZqdpp5gdH3LYTofLb9igNqd58yjNd1ZYbsg7r2jr1kcJJzRadrMHa3Q4joUsA6apc4RqI6MkGzRoa4UcUzP2g3TqsCMEG2Q4e1kP5o/kisspng-kanal-7-high-definition-television-television-chan-5b0f437a209bf3.0121065115277269701336.png" group-title="Türkçe",Kanal 7
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://e7.pngegg.com/pngimages/361/407/png-clipart-kanal-7-high-definition-television-television-channel-streaming-television-others-television-angle.png" group-title="Türkçe",Kanal 7
 https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=5tqfo3lhxu2r&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="Türkçe",A TV
 https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e&st=MmnS8YI4uFtZHE6ZztWM8A&e=1699162480
