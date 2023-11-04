@@ -8,13 +8,13 @@ https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=5tmmlq8vfreq&app=a20ac41
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://png2.cleanpng.com/sh/76b50ff053aaccc34a7302e2a07b06c1/L0KzQYm3VcMxN512hJH0aYP2gLBuTftidpJxRak2aHnqeH7rhfZqdpp5gdH3LYTofLb9igNqd58yjNd1ZYbsg7r2jr1kcJJzRadrMHa3Q4joUsA6apc4RqI6MkGzRoa4UcUzP2g3TqsCMEG2Q4e1kP5o/kisspng-kanal-7-high-definition-television-television-chan-5b0f437a209bf3.0121065115277269701336.png" group-title="Türkçe",Kanal 7
 https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=5tqfo3lhxu2r&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="Türkçe",A TV
-https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1698392241&st=VFEppSBchk7Ml5K3n9XKnw&sid=5ulq4uqpqc1c&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e&st=MmnS8YI4uFtZHE6ZztWM8A&e=1699162480
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Türkçe",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="Türkçe",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=5tqggjvheoop&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 #EXTINF:-1 tvg-id="FoxTurkey.tr" tvg-logo="https://i.imgur.com/homSiDa.png" group-title="Türkçe",Fox Türkiye
-https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1698404763&st=h6NM1SqzEJkVwv34wX5pXA
+https://59c7ea6bec1c6.streamlock.net/live/foxtv.stream/playlist.m3u8?hash=fc562b7489577a05893b4330cc57526f
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="Türkçe;Haberler",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png" group-title="Türkçe;Haberler",CNN Türk
