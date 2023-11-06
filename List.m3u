@@ -8,7 +8,7 @@ https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=5tmmlq8vfreq&app=a20ac41
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://turkey.mom-rsf.org/uploads/_processed_/e/7/csm_241-101_import_d773c9bbb4.png" group-title="Türkçe",Kanal 7
 https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=5tqfo3lhxu2r&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="Türkçe",A TV
-https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e&st=LnCEnExJQwm2joTfs9CS6A&e=1699221669
+https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e&st=pdyKCbnAEyPjWIDrmNBJEA&e=1699318069
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Türkçe",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="Türkçe",Kanal D
