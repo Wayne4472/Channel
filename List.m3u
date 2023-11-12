@@ -35,8 +35,8 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 https://beyaztv.daioncdn.net/beyaztv/beyaztv_1080p.m3u8?&sid=5waxloyl7ryp&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
 #EXTINF:-1 tvg-id="BeInSportsHaber.tr" tvg-logo="https://contentlibrary.digiturk.com.tr/News/2305/Image/haber_kanali_acildi_ayrinti.png" group-title="Türkçe",Bein Sports Haber
 https://59c7ea6bec1c6.streamlock.net/live/beinsporthaber.stream/chunklist.m3u8?hash=a69b75e0eb2cabbc8356b7abac317a32
-
-
+#EXTINF:-1 tvg-id="Tcl.tr" tvg-logo="https://img-tlctv.mncdn.com/logo.png" group-title="Türkçe",TLC
+https://59c7ea6bec1c6.streamlock.net/live/tlc.stream/chunklist.m3u8?hash=a69b75e0eb2cabbc8356b7abac317a32
 #EXTINF:-1 tvg-id="SterkTv.ku" tvg-logo="https://sterktv1.net/wp-content/uploads/2019/10/cropped-sterk-logo-1-2.png" group-title="kürtçe",Sterk TV
 https://muzkurd.com/sterktv/sterk/playlist.m3u8
 #EXTINF:-1 tvg-id="RonahiTv.ku" tvg-logo="https://ronahi.tv/wp-content/uploads/2019/10/R-LOGO.png" group-title="kürtçe",Ronahi TV
