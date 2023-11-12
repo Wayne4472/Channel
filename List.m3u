@@ -15,13 +15,21 @@ https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=5tqggjvheoop&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 #EXTINF:-1 tvg-id="FoxTurkey.tr" tvg-logo="https://i.imgur.com/homSiDa.png" group-title="Türkçe",Fox Türkiye
 https://59c7ea6bec1c6.streamlock.net/live/foxtv.stream/playlist.m3u8?hash=4c37f9ae7c784b9c9e4289f2c0e1665f
-#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="Türkçe;Haberler",TRT Haber
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="Türkçe",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png" group-title="Türkçe;Haberler",CNN Türk
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png" group-title="Türkçe",CNN Türk
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://i.imgur.com/jXbs8FZ.png" group-title="Türkçe; Haberler",NTV
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://i.imgur.com/jXbs8FZ.png" group-title="Türkçe",NTV
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
-#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Türkçe; Haberler",A Haber
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Türkçe",A Haber
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8?st=UK_pMjm6TZ5ty68BIKBvAA&e=1697888877&SessionID=nkk1yaqgbdugplul2cxgehoh&StreamGroup=canli-yayin&Site=ahaber&DeviceGroup=web
-#EXTINF:-1 tvg-id="HaberTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Haberturk_logo.png" group-title="Türkçe; Haberler",Haber Türk TV
+#EXTINF:-1 tvg-id="HaberTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Haberturk_logo.png" group-title="Türkçe",Haber Türk TV
 https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=5ufap8kmzkv7&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
+#EXTINF:-1 tvg-id="SterkTv.ku" tvg-logo="https://sterktv1.net/wp-content/uploads/2019/10/cropped-sterk-logo-1-2.png" group-title="kürtçe",Sterk TV
+https://muzkurd.com/sterktv/sterk/playlist.m3u8
+#EXTINF:-1 tvg-id="RonahiTv.ku" tvg-logo="https://ronahi.tv/wp-content/uploads/2019/10/R-LOGO.png" group-title="kürtçe",Ronahi TV
+https://ikomg1.s.llnwi.net/ronahi-tv/stream_1.m3u8
+#EXTINF:-1 tvg-id="MedMusik.ku" tvg-logo="http://medmuzik.tv/wp-content/uploads/2021/02/logo-med-removebg-preview-1.png" group-title="kürtçe",Med Musik
+https://med-musik.icdndhcp.com/live3/live3.m3u8
+#EXTINF:-1 tvg-id="RudawTv.ku" tvg-logo="https://photos.smugmug.com/Rudaw-logo/i-jjPWGFL/0/15b1de7f/XL/RUDAW-XL.png" group-title="kürtçe",Rudaw TV
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
