@@ -15,7 +15,7 @@ https://yayin8.canlitv.day/live/foxtv.stream/playlist.m3u8?hash=877a3035bd119c0c
 https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=5tqfo3lhxu2r&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Türkçe",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-#EXTINF:-1 tvg-id="TV8,5.tr" tvg-logo="https://image.pngaaa.com/643/774643-middle.png" group-title="Türkçe",TV 8,5
+#EXTINF:-1 tvg-id="TV8,5.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/TV_8.5logo.png" group-title="Türkçe",TV 8,5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=6dxn5z0ntm29&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="Türkçe",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
